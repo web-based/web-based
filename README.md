@@ -1,4 +1,5 @@
 
+<p align="center"><img width="100%"alt=" Hi There!" src="./assets/github_readme_hero.png" />/p>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/os-profile">
