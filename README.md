@@ -4,9 +4,9 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/os-profile">
-<img src="https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-os&nbsp;-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-<img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=for-the-badge&color=orange&" alt="github views"/>
+<img id="badges" src="https://komarev.com/ghpvc/?username=web-based&style=for-the-badge&color=orange&" alt="github views"/>
 <img/> 
  </div>
 
