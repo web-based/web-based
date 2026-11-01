@@ -1,7 +1,5 @@
 
 
-<p align="center"><a href="https:/https://github.com/web-based"><img width="100%"alt=" Hi There!" src="./assets/github_readme_hero.png" /></a></p>
-
 <div align="center">
  <a href="https://www.linkedin.com/in/os-profile">
 <img src="https://img.shields.io/badge/-os&nbsp;-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
