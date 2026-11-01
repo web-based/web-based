@@ -3,7 +3,7 @@
 <p align="center"><a href="https://iosvaldo.github.io"><img width="100%"alt=" Hi There!" src="./assets/github_readme_hero.png" /></a></p>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/iosvaldo">
+ <a href="https://www.linkedin.com/in/os-profile">
 <img src="https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=for-the-badge&color=orange&" alt="github views"/>
